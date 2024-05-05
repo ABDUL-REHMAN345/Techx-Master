@@ -33,13 +33,13 @@ To run **Techx** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/techx.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Techx-Master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/techx.git
+git clone https://github.com/ABDUL-REHMAN345/Techx-Master.git
 ```
 
 ### Contact
